@@ -70,6 +70,7 @@ This repository is a **Pulumi playground** designed for experimenting with infra
 
 ## Useful Links
 
+- [Pulumi Commands](https://www.pulumi.com/docs/iac/cli/commands/)
 - [Pulumi Azure Provider Docs](https://www.pulumi.com/registry/packages/azure/)
 - [Pulumi C# API Docs](https://www.pulumi.com/docs/reference/pkg/dotnet/)
 - [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
