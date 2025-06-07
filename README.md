@@ -29,7 +29,7 @@ This repository is a **Pulumi playground** designed for experimenting with infra
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-org/pulumiPlayground.git
+   git clone https://github.com/fkucukkara/pulumiPlayground.git
    cd pulumiPlayground
    ```
 
