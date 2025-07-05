@@ -20,7 +20,7 @@ This repository is a **Pulumi playground** designed for experimenting with infra
 
 ## Prerequisites
 
-- [.NET SDK](https://dotnet.microsoft.com/download) (6.0 or later)
+- [.NET SDK](https://dotnet.microsoft.com/download) (9.0)
 - [Pulumi CLI](https://www.pulumi.com/docs/get-started/install/)
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) (for authentication)
 - An Azure account
