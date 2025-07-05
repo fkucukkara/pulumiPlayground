@@ -77,3 +77,5 @@ This repository is a **Pulumi playground** designed for experimenting with infra
 
 ## License
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+This project is licensed under the MIT License, which allows you to freely use, modify, and distribute the code. See the [`LICENSE`](LICENSE) file for full details.
